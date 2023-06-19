@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: cursive;
+}
+
+h2{
+    width: 100%;
+    font-size: 35px;
+    background-color: rgb(185, 162, 185);
+    height: 40px;
+}
+
+canvas{
+    margin-top: 100px;
+}
+
+/*background-color: rgb(170, 221, 204);*/
